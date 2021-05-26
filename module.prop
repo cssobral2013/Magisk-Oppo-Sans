@@ -1,7 +1,7 @@
-id=201804036666
-name=Magisk Font Changer 
+id=202105251327
+name=Magisk Oppo Sans
 version=v2
 versionCode=1
-author=Packy
-description=Change system fonts Systemlessly
+author=Packy & cssobral2013
+description=Change your system font to Oppo Sans systemlessly
 minMagisk=1500
